@@ -1,6 +1,19 @@
 body{
- color: red   
+    color: royalblue;
+    background-color: burlywood;
+}
+h1{
+    color: red;
+    
+}
+h2{
+    color: rebeccapurple;
+    
+}
+small{
+    color: rebeccapurple;
+    
 }
 p{
-    color: blue
+    background-color: burlywood
 }
